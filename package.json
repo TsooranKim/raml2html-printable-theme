@@ -1,0 +1,38 @@
+{
+  "name": "raml2html-printable-theme",
+  "description": "The printable theme used by raml2html based on raml2html-default-theme",
+  "version": "1.0.0",
+  "author": {
+    "name": "Taegyun Sooran Kim",
+    "email": "t.soorankim@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/TsooranKim/raml2html-printable-theme/issues"
+  },
+  "devDependencies": {
+    "glob": "7.1.x"
+  },
+  "homepage": "https://github.com/TsooranKim/raml2html-printable-theme",
+  "keywords": [
+    "RAML",
+    "raml2html-theme",
+    "printable"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TsooranKim/raml2html-printable-theme.git"
+  },
+  "preferGlobal": true,
+  "files": [
+    "index.nunjucks",
+    "resource.nunjucks",
+    "item.nunjucks",
+    "examples.nunjucks",
+    "styles.css"
+  ],
+  "engines": {
+    "node": ">=4"
+  },
+  "dependencies": {}
+}
