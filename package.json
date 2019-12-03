@@ -1,7 +1,7 @@
 {
   "name": "raml2html-printable-theme",
   "description": "The printable theme used by raml2html based on raml2html-default-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Taegyun Sooran Kim",
     "email": "t.soorankim@gmail.com"
