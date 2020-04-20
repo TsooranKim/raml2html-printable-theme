@@ -134,6 +134,8 @@
 .modal-content
 {
   border-color: #b7b7b7;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
 }
 
 .panel-group .panel+.panel
